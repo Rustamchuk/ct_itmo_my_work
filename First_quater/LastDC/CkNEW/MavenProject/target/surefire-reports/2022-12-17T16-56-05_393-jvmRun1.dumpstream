@@ -1,0 +1,6 @@
+# Created at 2022-12-17T16:56:06.314
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Error occurred during initialization of boot layer'.
+
+# Created at 2022-12-17T16:56:06.316
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'java.lang.module.FindException: Module ru.covariance.dc21sample not found'.
+

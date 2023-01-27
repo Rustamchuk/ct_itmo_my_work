@@ -1,0 +1,117 @@
+git reset B.txt
+git commit -am "A.txt"
+
+
+
+// Создаем .gitignore
+// (записываем
+// *.exe
+// *.o
+// *.jar
+// libraries/)
+git add .gitignore
+git add file.txt
+git status
+git commit -m "ultra"
+git push
+
+
+
+git merge another-piece-of-work
+git config merge.tool vimdiff
+git config mergetool.prompt false
+git mergetool
+//С помощью ctrl + W захожу в окно REMOTE меняю "? + 3 = 5" на "2 + 3 = 5"
+//В окне результата убираю лишние символы "========="
+:diffg RE
+//Вижу, что изменения приняты
+:wha
+git commit -m "MergeProblems"
+git verify
+
+
+
+
+
+git stash
+git status
+git stash list
+//Убираю баг в файле
+git add bug.txt
+git commit -m "ok"
+git stash pop
+//Добавляю строку в файле
+git add *
+git commit -m "done"
+
+
+
+git rebase hot-bugfix
+
+
+
+
+git commit --amend --date 13-01-1987
+:wqa
+
+
+
+git rebase -i
+// Меняю pick на e
+// Испраляю ошибку в файле
+git add file.txt
+git rebase --continue
+// Снова исправляю ошибку
+// Исправляю проблему слияния как в задании выше 
+// Меняю в окне Remote 
+git mergetool
+:diffg RE
+:wqa
+git add file.txt
+git rebase --continue
+git commit -m "ok"
+
+
+
+
+
+git reflog (Видим под зеленым Head файлы с HEAD@{1})
+git reset HEAD@{1} --hard
+
+
+
+
+git rebase -i
+// Меняю второй pick на s, чтобы соединить оба
+:wqa
+:wqa
+
+
+
+git add --chmod +x script.sh
+git status
+git commit -m "chmod"
+
+
+
+
+// Вводим команды смотря на справочник сверху: s, n, y, n, y
+git add -p
+git commit -m "okey"
+// И снова вводим команды: s, y, y.
+git add -p
+git commit -m okey2
+
+
+
+git rebase -i
+// Вручную меняем порядок коммитов
+
+
+
+
+// Видим в faulty-check, команду "vim"
+git log -S 'vim' 
+// Находим коммиты с данным словом
+// Вставляем полученный код
+git push origin 59b2e8a1e8b23ef75bfc246e10e4b567d10f16cc:search-improved

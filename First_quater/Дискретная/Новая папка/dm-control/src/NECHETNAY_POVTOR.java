@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class NECHETNAY_POVTOR {
+    public static int n;
+    public static int sum;
+    public static int len;
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
+        for (int i = 1; i <= n; i++) {
+            if (i % 2 != 0) // Для нечетности
+                gen(String.valueOf(i), i, i);
+        }
+        System.out.println("Answer: " + len);
+    }
+
+    public static void gen(String p, int sum, int last) {
+        if (sum == n) {
+            len++;
+            System.out.println(p);
+            return;
+        } else if (sum > n) {
+            return;
+        }
+        loop:
+        for (int i = 1; i < n; i++) {
+            if (last <= i && i % 2 != 0) // Для нечетности
+                gen(p + "+" + i, sum + i, i);
+        }
+    }
+}
