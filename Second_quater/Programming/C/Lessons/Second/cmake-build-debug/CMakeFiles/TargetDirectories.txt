@@ -1,0 +1,3 @@
+C:/University/Programming/C/Lessons/Second/cmake-build-debug/CMakeFiles/Second.dir
+C:/University/Programming/C/Lessons/Second/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/University/Programming/C/Lessons/Second/cmake-build-debug/CMakeFiles/rebuild_cache.dir

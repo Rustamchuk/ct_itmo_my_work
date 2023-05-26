@@ -1,0 +1,106 @@
+Determining if the futimens exist failed with the following output:
+Change Dir: C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c28k8b
+
+Run Build Command(s):C:/CLion/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe cmTC_b1b00 && [1/2] Building C object CMakeFiles/cmTC_b1b00.dir/CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_b1b00.dir/CheckSymbolExists.c.obj 
+C:\CLion\CLION2~1.1\bin\mingw\bin\gcc.exe   -fdiagnostics-color=always   -U_POSIX_C_SOURCE -o CMakeFiles/cmTC_b1b00.dir/CheckSymbolExists.c.obj -c C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c28k8b/CheckSymbolExists.c
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c28k8b/CheckSymbolExists.c: In function 'main':
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c28k8b/CheckSymbolExists.c:9:19: error: 'futimens' undeclared (first use in this function)
+    9 |   return ((int*)(&futimens))[argc];
+      |                   ^~~~~~~~
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c28k8b/CheckSymbolExists.c:9:19: note: each undeclared identifier is reported only once for each function it appears in
+ninja: build stopped: subcommand failed.
+
+
+File CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <sys/stat.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef futimens
+  return ((int*)(&futimens))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the posix_fadvise exist failed with the following output:
+Change Dir: C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4isjgu
+
+Run Build Command(s):C:/CLion/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe cmTC_94e37 && [1/2] Building C object CMakeFiles/cmTC_94e37.dir/CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_94e37.dir/CheckSymbolExists.c.obj 
+C:\CLion\CLION2~1.1\bin\mingw\bin\gcc.exe   -fdiagnostics-color=always   -U_POSIX_C_SOURCE -o CMakeFiles/cmTC_94e37.dir/CheckSymbolExists.c.obj -c C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4isjgu/CheckSymbolExists.c
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4isjgu/CheckSymbolExists.c: In function 'main':
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4isjgu/CheckSymbolExists.c:8:19: error: 'posix_fadvise' undeclared (first use in this function)
+    8 |   return ((int*)(&posix_fadvise))[argc];
+      |                   ^~~~~~~~~~~~~
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4isjgu/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+ninja: build stopped: subcommand failed.
+
+
+File CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef posix_fadvise
+  return ((int*)(&posix_fadvise))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the posix_madvise exist failed with the following output:
+Change Dir: C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c8vb2v
+
+Run Build Command(s):C:/CLion/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe cmTC_39d8c && [1/2] Building C object CMakeFiles/cmTC_39d8c.dir/CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_39d8c.dir/CheckSymbolExists.c.obj 
+C:\CLion\CLION2~1.1\bin\mingw\bin\gcc.exe   -fdiagnostics-color=always   -U_POSIX_C_SOURCE -o CMakeFiles/cmTC_39d8c.dir/CheckSymbolExists.c.obj -c C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c8vb2v/CheckSymbolExists.c
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-c8vb2v/CheckSymbolExists.c:2:10: fatal error: sys/mman.h: No such file or directory
+    2 | #include <sys/mman.h>
+      |          ^~~~~~~~~~~~
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+File CheckSymbolExists.c:
+/* */
+#include <sys/mman.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef posix_madvise
+  return ((int*)(&posix_madvise))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C SOURCE FILE Test HAVE_STAT_NANOSECOND_PRECISION failed with the following output:
+Change Dir: C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5x4a4y
+
+Run Build Command(s):C:/CLion/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe cmTC_fd299 && [1/2] Building C object CMakeFiles/cmTC_fd299.dir/src.c.obj
+FAILED: CMakeFiles/cmTC_fd299.dir/src.c.obj 
+C:\CLion\CLION2~1.1\bin\mingw\bin\gcc.exe -DHAVE_STAT_NANOSECOND_PRECISION  -fdiagnostics-color=always   -U_POSIX_C_SOURCE -o CMakeFiles/cmTC_fd299.dir/src.c.obj -c C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5x4a4y/src.c
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5x4a4y/src.c: In function 'main':
+C:/University/Programming/C/Lessons/lab-2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5x4a4y/src.c:3:64: error: 'struct stat' has no member named 'st_atim'; did you mean 'st_atime'?
+    3 |                          int main() { struct stat st; (void)st.st_atim; }
+      |                                                                ^~~~~~~
+      |                                                                st_atime
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <sys/types.h>
+                         #include <sys/stat.h>
+                         int main() { struct stat st; (void)st.st_atim; }
+
