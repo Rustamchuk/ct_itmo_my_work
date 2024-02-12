@@ -1,0 +1,17 @@
+image: golang:latest
+
+stages:
+  - lint
+  - test
+
+Lint:
+  image: golangci/golangci-lint:latest
+  stage: lint
+  allow_failure: false
+  script:
+    - golangci-lint run -v --issues-exit-code 1
+
+Test:
+  stage: test
+  script:
+    - go test ./...

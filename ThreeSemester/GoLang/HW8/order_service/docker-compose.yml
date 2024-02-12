@@ -1,0 +1,24 @@
+#version: '3.1'
+#
+#services:
+#  db:
+#    image: mariadb:10.8
+#    ports:
+#      - 3307:3306
+#    volumes:
+#      - ./mariadb:/var/lib/mysql
+#    environment:
+#      - MYSQL_ROOT_PASSWORD=root
+#      - MYSQL_DATABASE=orders
+#      - MYSQL_TCP_PORT=3306
+#  phpMyAdmin:
+#    image: phpmyadmin/phpmyadmin
+#    restart: always
+#    ports:
+#      - "3306:80"
+#    environment:
+#      - PMA_HOST=db
+#      - PMA_USER=root
+#      - PMA_PASSWORD=root
+#    links:
+#      - db

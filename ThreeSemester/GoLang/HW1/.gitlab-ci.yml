@@ -1,0 +1,19 @@
+stages:
+  - build
+  - run
+  - test
+
+Build:
+  stage: build
+  script:
+    - go build Hello.go
+
+Run:
+  stage: run
+  script:
+    - go run Hello.go
+
+Test:
+  stage: test
+  script:
+    - go test
