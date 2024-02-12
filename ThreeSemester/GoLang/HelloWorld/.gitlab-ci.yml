@@ -1,0 +1,30 @@
+image: golang:latest
+
+stages:
+  - lint
+  - build
+  - run
+  - test
+
+lint:
+  image: golangci/golangci-lint:latest
+  stage: lint
+  extends: .go-cache
+  allow_failure: false
+  script:
+    - golangci-lint run -v
+
+Build:
+  stage: build
+  script:
+    - go build Hello.go
+
+Run:
+  stage: run
+  script:
+    - go run Hello.go
+
+Test:
+  stage: test
+  script:
+    - go test

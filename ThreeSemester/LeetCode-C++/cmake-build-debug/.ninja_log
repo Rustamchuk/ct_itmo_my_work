@@ -1,0 +1,10 @@
+# ninja log v5
+5	530	7166832204625414	CMakeFiles/LeetCode_C__.dir/SecretSanta.cpp.obj	f9d8a3c714721abe
+1	165	7171837122334809	build.ninja	3a0552a797b8bd6
+343	449	7170962466706478	LeetCode_C__.exe	a1a24091c8e30363
+3	361	7169315016828726	CMakeFiles/LeetCode_C__.dir/MergeTwoSort.cpp.obj	7da2098039882b93
+3	342	7170962465672666	CMakeFiles/LeetCode_C__.dir/FindIndex.cpp.obj	728df5b968a6ab9f
+1	136	7171841079138169	CMakeFiles/LeetCode_C__.dir/VK_Test.cpp.obj	42addc9d4423f7fb
+137	398	7171841081702369	LeetCode_C__.exe	c4a17e3342b6532b
+1	98	7171842763978092	CMakeFiles/LeetCode_C__.dir/VK_Test.cpp.obj	42addc9d4423f7fb
+99	234	7171842765279484	LeetCode_C__.exe	c4a17e3342b6532b

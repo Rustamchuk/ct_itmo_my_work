@@ -1,0 +1,8 @@
+# ninja log v5
+4	589	7233150092150397	CMakeFiles/lab1_C.dir/Zfunc.cpp.obj	ee533f732120c06f
+1	782	7233146980384634	CMakeFiles/lab1_C.dir/prefixfun.cpp.obj	7feaaaaad916b023
+489	628	7258364366944004	lab1_C.exe	34a6e7dd731cf6be
+2	245	7258369298478659	build.ninja	13e0c315cd376799
+3	489	7258364365599284	CMakeFiles/lab1_C.dir/searchSubstring.cpp.obj	370d8344ceaabe6f
+1	602	7258371802820581	CMakeFiles/lab1_C.dir/SearchLoop.cpp.obj	73ee386c6eba4c03
+606	780	7258371804550828	lab1_C.exe	486d3b876ad8bcc4
