@@ -1,0 +1,38 @@
+start: one
+accept: yes
+reject: no
+blank: zero
+
+one 1 -> odin i >
+one 0 -> nole o >
+one zero -> yes zero >
+
+odin 1 -> odin 1 >
+odin 0 -> odin 0 >
+odin i -> odin i >
+odin o -> nole i >
+odin zero -> int i <
+
+nole 1 -> nole 1 >
+nole 0 -> nole 0 >
+nole i -> odin o >
+nole o -> nole o >
+nole zero -> int o <
+
+int i -> int i <
+int o -> int o <
+int 1 -> back 1 <
+int 0 -> back 0 <
+int zero -> fin zero >
+
+back i -> con i >
+back o -> con o >
+back 1 -> back 1 <
+back 0 -> back 0 <
+
+con 1 -> odin i >
+con 0 -> nole o >
+
+fin i -> fin 1 >
+fin o -> fin 0 >
+fin zero -> yes zero >

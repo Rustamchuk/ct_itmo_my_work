@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\bin\Debug\net8.0\Decoding.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\bin\Debug\net8.0\Decoding.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\bin\Debug\net8.0\Decoding.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\bin\Debug\net8.0\Decoding.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\bin\Debug\net8.0\Decoding.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\refint\Decoding.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\Decoding.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Decoding\obj\Debug\net8.0\ref\Decoding.dll

@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\bin\Debug\net8.0\Polar.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\bin\Debug\net8.0\Polar.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\bin\Debug\net8.0\Polar.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\bin\Debug\net8.0\Polar.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\bin\Debug\net8.0\Polar.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\refint\Polar.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\Polar.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Polar\obj\Debug\net8.0\ref\Polar.dll

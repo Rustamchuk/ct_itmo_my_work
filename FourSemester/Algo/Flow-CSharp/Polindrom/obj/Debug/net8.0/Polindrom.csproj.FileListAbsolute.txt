@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\bin\Debug\net8.0\Polindrom.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\bin\Debug\net8.0\Polindrom.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\bin\Debug\net8.0\Polindrom.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\bin\Debug\net8.0\Polindrom.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\bin\Debug\net8.0\Polindrom.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\refint\Polindrom.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\Polindrom.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Polindrom\obj\Debug\net8.0\ref\Polindrom.dll

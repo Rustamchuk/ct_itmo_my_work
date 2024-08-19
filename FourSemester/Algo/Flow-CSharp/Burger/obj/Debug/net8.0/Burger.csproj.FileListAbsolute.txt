@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\bin\Debug\net8.0\Burger.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\bin\Debug\net8.0\Burger.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\bin\Debug\net8.0\Burger.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\bin\Debug\net8.0\Burger.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\bin\Debug\net8.0\Burger.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\refint\Burger.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\Burger.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Burger\obj\Debug\net8.0\ref\Burger.dll

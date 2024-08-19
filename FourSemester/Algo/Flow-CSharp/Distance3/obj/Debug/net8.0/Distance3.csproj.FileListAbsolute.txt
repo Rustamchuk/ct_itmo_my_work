@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\bin\Debug\net8.0\Distance3.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\bin\Debug\net8.0\Distance3.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\bin\Debug\net8.0\Distance3.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\bin\Debug\net8.0\Distance3.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\bin\Debug\net8.0\Distance3.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\refint\Distance3.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\Distance3.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Distance3\obj\Debug\net8.0\ref\Distance3.dll

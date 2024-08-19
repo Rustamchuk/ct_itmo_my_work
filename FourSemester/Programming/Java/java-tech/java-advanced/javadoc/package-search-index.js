@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"info.kgeorgiy.ja.nazarov.implementor"},{"l":"info.kgeorgiy.ja.nazarov.iterative"},{"l":"info.kgeorgiy.java.advanced.iterative"},{"l":"info.kgeorgiy.java.advanced.mapper"}];updateSearchResults();

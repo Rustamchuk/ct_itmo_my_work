@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\bin\Debug\net8.0\ChipDay.exe
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\bin\Debug\net8.0\ChipDay.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\bin\Debug\net8.0\ChipDay.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\bin\Debug\net8.0\ChipDay.dll
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\bin\Debug\net8.0\ChipDay.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.dll
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\refint\ChipDay.dll
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ChipDay.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\ChipDay\obj\Debug\net8.0\ref\ChipDay.dll

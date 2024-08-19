@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\bin\Debug\net8.0\SkyScaper.exe
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\bin\Debug\net8.0\SkyScaper.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\bin\Debug\net8.0\SkyScaper.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\bin\Debug\net8.0\SkyScaper.dll
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\bin\Debug\net8.0\SkyScaper.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.dll
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\refint\SkyScaper.dll
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\SkyScaper.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\SkyScaper\obj\Debug\net8.0\ref\SkyScaper.dll

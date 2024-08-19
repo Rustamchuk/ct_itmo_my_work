@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\bin\Debug\net8.0\MachineProg.exe
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\bin\Debug\net8.0\MachineProg.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\bin\Debug\net8.0\MachineProg.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\bin\Debug\net8.0\MachineProg.dll
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\bin\Debug\net8.0\MachineProg.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.dll
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\refint\MachineProg.dll
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\MachineProg.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\MachineProg\obj\Debug\net8.0\ref\MachineProg.dll

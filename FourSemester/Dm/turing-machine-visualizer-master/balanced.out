@@ -1,0 +1,63 @@
+start: start
+accept: yes
+reject: no
+blank: zero
+
+start ( -> start ) >
+start ) -> start ( >
+start zero -> return zero <
+
+return ( -> return kk <
+return ) -> return ll <
+return zero -> return2 zero >
+
+return2 kk -> return2 kk >
+return2 ll -> return2 ll >
+return2 zero -> return3 zero <
+
+return3 kk -> return3 ) <
+return3 ll -> return3 ( <
+return3 zero -> one zero >
+
+one ( -> one ( >
+one ) -> open ) <
+one o -> one o >
+one zero -> check o ^
+
+open ( -> close o >
+open o -> open o <
+open zero -> reft o ^
+
+close ) -> one o <
+close o -> close o >
+close zero -> check zero <
+
+check o -> check o <
+check ( -> reft ( ^
+check zero -> left zero >
+
+left ( -> left o <
+left ) -> left o <
+left o -> left o <
+left zero -> reft2 o ^
+
+reft2 ( -> reft2 o >
+reft2 ) -> reft2 o >
+reft2 o -> reft2 o >
+reft2 zero -> clear o ^
+
+clear o -> clear zero <
+clear zero -> yes zero ^
+
+reft ( -> reft o >
+reft ) -> reft o >
+reft o -> reft o >
+reft zero -> left2 o ^
+
+left2 ( -> left2 o <
+left2 ) -> left2 o <
+left2 o -> left2 o <
+left2 zero -> clear2 o ^
+
+clear2 o -> clear2 zero >
+clear2 zero -> no zero ^

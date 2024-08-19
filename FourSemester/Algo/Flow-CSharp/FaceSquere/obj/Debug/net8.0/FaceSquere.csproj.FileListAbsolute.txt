@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\bin\Debug\net8.0\FaceSquere.exe
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\bin\Debug\net8.0\FaceSquere.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\bin\Debug\net8.0\FaceSquere.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\bin\Debug\net8.0\FaceSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\bin\Debug\net8.0\FaceSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\refint\FaceSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\FaceSquere.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\FaceSquere\obj\Debug\net8.0\ref\FaceSquere.dll

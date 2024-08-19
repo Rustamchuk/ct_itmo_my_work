@@ -1,0 +1,148 @@
+start: start
+accept: yes
+reject: no
+blank: zero
+
+start 1 -> start i >
+start 0 -> start o >
+start + -> start x >
+start zero -> return zero <
+
+return i -> return o <
+return o -> return i <
+return x -> return - <
+return zero -> return2 zero >
+
+return2 o -> return2 ll >
+return2 i -> return2 kk >
+return2 - -> return2 = >
+return2 zero -> return3 zero <
+
+return3 ll -> return3 1 <
+return3 kk -> return3 0 <
+return3 = -> return3 + <
+return3 zero -> eq zero >
+
+eq 1 -> eq 1 >
+eq 0 -> eq 0 >
+eq + -> eq + >
+eq zero -> ret = <
+
+ret 1 -> ret 1 <
+ret 0 -> ret 0 <
+ret + -> ret + <
+ret zero -> one zero >
+
+one 1 -> one 1 >
+one 0 -> one 0 >
+one o -> lf o <
+one + -> lf + <
+
+lf 1 -> plus1 o >
+lf 0 -> plus0 o >
+lf o -> lf o <
+lf zero -> reft zero >
+
+reft o -> reft o >
+reft + -> ch + >
+
+ch 1 -> ch 1 >
+ch 0 -> ch 0 >
+ch o -> get o <
+ch + -> lll + <
+
+lll o -> lll o <
+lll zero -> fin zero >
+
+get 0 -> nl o >
+get 1 -> od o >
+get + -> lll + <
+
+nl o -> nl o >
+nl = -> nl = >
+nl 1 -> od 0 >
+nl 0 -> nl 0 >
+nl zero -> bb 0 <
+
+od o -> od o >
+od = -> od = >
+od 1 -> od 1 >
+od 0 -> nl 1 >
+od zero -> bb 1 <
+
+bb 1 -> bb 1 <
+bb 0 -> bb 0 <
+bb = -> bb = <
+bb o -> bb o <
+bb + -> ch + >
+
+fin o -> fin SUPER >
+fin + -> fin SUPER >
+fin = -> end SUPER ^
+
+end SUPER -> end YESYESYES <
+end zero -> sup YESYESYES ^
+
+sup YESYESYES -> sup zero >
+sup 1 -> yes 1 ^
+sup 0 -> yes 0 ^
+
+plus1 o -> plus1 o >
+plus1 + -> odin + >
+
+plus0 o -> plus0 o >
+plus0 + -> nole + >
+
+odin + -> odin + >
+odin 1 -> odin 1 >
+odin 0 -> odin 0 >
+odin o -> odin2 o <
+odin = -> odin2 = <
+
+odin2 1 -> trash o <
+odin2 0 -> odin3 o >
+odin2 + -> odin3 + >
+
+trash 0 -> trash 0 <
+trash 1 -> trash 1 <
+trash + -> trash1 + <
+
+trash1 o -> trash1 o <
+trash1 0 -> trash3 1 >
+trash1 1 -> trash1 0 <
+trash1 zero -> trash3 1 >
+
+trash3 0 -> trash3 0 >
+trash3 1 -> trash3 1 >
+trash3 o -> trash3 o >
+trash3 + -> trash3 + >
+trash3 = -> nole3 = >
+
+odin3 o -> odin3 o >
+odin3 = -> odin3 = >
+odin3 1 -> odin3 1 >
+odin3 0 -> nole3 1 >
+odin3 zero -> back 1 <
+
+nole + -> nole + >
+nole 1 -> nole 1 >
+nole 0 -> nole 0 >
+nole o -> nole2 o <
+nole = -> nole2 = <
+
+nole2 1 -> odin3 o >
+nole2 0 -> nole3 o >
+nole2 + -> nole3 + >
+
+nole3 o -> nole3 o >
+nole3 = -> nole3 = >
+nole3 1 -> odin3 0 >
+nole3 0 -> nole3 0 >
+nole3 zero -> back 0 <
+
+back 0 -> back 0 <
+back 1 -> back 1 <
+back o -> back o <
+back = -> back = <
+back + -> back + <
+back zero -> one zero >

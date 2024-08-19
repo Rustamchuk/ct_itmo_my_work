@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\bin\Debug\net8.0\Poly.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\bin\Debug\net8.0\Poly.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\bin\Debug\net8.0\Poly.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\bin\Debug\net8.0\Poly.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\bin\Debug\net8.0\Poly.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\refint\Poly.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\Poly.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Poly\obj\Debug\net8.0\ref\Poly.dll

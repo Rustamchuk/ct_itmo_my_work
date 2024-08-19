@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\China\bin\Debug\net8.0\China.exe
+C:\University\FourSemester\Algo\Flow-CSharp\China\bin\Debug\net8.0\China.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\China\bin\Debug\net8.0\China.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\China\bin\Debug\net8.0\China.dll
+C:\University\FourSemester\Algo\Flow-CSharp\China\bin\Debug\net8.0\China.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.dll
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\refint\China.dll
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\China.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\China\obj\Debug\net8.0\ref\China.dll

@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\bin\Debug\net8.0\MinMax.exe
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\bin\Debug\net8.0\MinMax.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\bin\Debug\net8.0\MinMax.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\bin\Debug\net8.0\MinMax.dll
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\bin\Debug\net8.0\MinMax.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.dll
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\refint\MinMax.dll
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\MinMax.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\MinMax\obj\Debug\net8.0\ref\MinMax.dll

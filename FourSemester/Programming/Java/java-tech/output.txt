@@ -1,0 +1,7 @@
+Analyzed file "output.txt".
+Summary Statistics
+Number of sentences: 4.
+Number of words: 4.
+Number of numbers: 1.
+Number of currencies: 1.
+Number of dates: 1.

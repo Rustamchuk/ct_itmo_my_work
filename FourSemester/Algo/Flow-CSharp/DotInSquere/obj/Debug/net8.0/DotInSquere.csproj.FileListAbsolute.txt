@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\bin\Debug\net8.0\DotInSquere.exe
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\bin\Debug\net8.0\DotInSquere.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\bin\Debug\net8.0\DotInSquere.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\bin\Debug\net8.0\DotInSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\bin\Debug\net8.0\DotInSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\refint\DotInSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\DotInSquere.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\DotInSquere\obj\Debug\net8.0\ref\DotInSquere.dll

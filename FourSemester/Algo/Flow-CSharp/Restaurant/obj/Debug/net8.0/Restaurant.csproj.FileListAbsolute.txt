@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\bin\Debug\net8.0\Restaurant.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\bin\Debug\net8.0\Restaurant.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\bin\Debug\net8.0\Restaurant.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\bin\Debug\net8.0\Restaurant.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\bin\Debug\net8.0\Restaurant.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\refint\Restaurant.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\Restaurant.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Restaurant\obj\Debug\net8.0\ref\Restaurant.dll

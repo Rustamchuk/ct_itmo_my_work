@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\bin\Debug\net8.0\Walk.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\bin\Debug\net8.0\Walk.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\bin\Debug\net8.0\Walk.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\bin\Debug\net8.0\Walk.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\bin\Debug\net8.0\Walk.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\refint\Walk.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\Walk.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Walk\obj\Debug\net8.0\ref\Walk.dll

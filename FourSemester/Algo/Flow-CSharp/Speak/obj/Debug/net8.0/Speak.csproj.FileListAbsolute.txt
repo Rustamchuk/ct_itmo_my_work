@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\bin\Debug\net8.0\Speak.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\bin\Debug\net8.0\Speak.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\bin\Debug\net8.0\Speak.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\bin\Debug\net8.0\Speak.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\bin\Debug\net8.0\Speak.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\refint\Speak.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\Speak.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Speak\obj\Debug\net8.0\ref\Speak.dll

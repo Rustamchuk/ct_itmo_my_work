@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\bin\Debug\net8.0\OutDot.exe
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\bin\Debug\net8.0\OutDot.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\bin\Debug\net8.0\OutDot.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\bin\Debug\net8.0\OutDot.dll
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\bin\Debug\net8.0\OutDot.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.dll
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\refint\OutDot.dll
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\OutDot.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\OutDot\obj\Debug\net8.0\ref\OutDot.dll

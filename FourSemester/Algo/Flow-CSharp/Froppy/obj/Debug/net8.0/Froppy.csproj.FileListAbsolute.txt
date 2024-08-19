@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\bin\Debug\net8.0\Froppy.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\bin\Debug\net8.0\Froppy.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\bin\Debug\net8.0\Froppy.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\bin\Debug\net8.0\Froppy.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\bin\Debug\net8.0\Froppy.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\refint\Froppy.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\Froppy.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Froppy\obj\Debug\net8.0\ref\Froppy.dll

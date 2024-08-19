@@ -1,0 +1,122 @@
+start: start
+accept: yes
+reject: no
+blank: zero
+
+start 1 -> start 0 >
+start 0 -> start 1 >
+start zero -> return zero <
+
+return 1 -> return kk <
+return 0 -> return ll <
+return zero -> return2 zero >
+
+return2 kk -> return2 kk >
+return2 ll -> return2 ll >
+return2 zero -> return3 zero <
+
+return3 kk -> return3 0 <
+return3 ll -> return3 1 <
+return3 zero -> one zero >
+
+one 1 -> right i >
+one 0 -> right o >
+one zero -> yes zero ^
+
+right 1 -> right 1 >
+right 0 -> right 0 >
+right i -> preTwo i <
+right o -> preTwo o <
+right zero -> preTwo zero <
+
+preTwo 1 -> preTwo 1 <
+preTwo 0 -> preTwo 0 <
+preTwo i -> proTwo i >
+preTwo o -> proTwo o >
+preTwo zero -> proTwo zero >
+
+proTwo 1 -> right2 1 ^
+proTwo 0 -> right2 0 ^
+proTwo i -> right2 i ^
+proTwo o -> right2 o ^
+proTwo zero -> proTwo zero <
+
+right2 1 -> right2 1 >
+right2 0 -> right2 0 >
+right2 i -> two i <
+right2 o -> two o <
+right2 zero -> two zero <
+
+two 1 -> left i <
+two 0 -> left o <
+two i -> no i <
+two o -> no o <
+
+left 1 -> left 1 <
+left 0 -> left 0 <
+left i -> proOne i >
+left o -> proOne o >
+
+preOne 1 -> left2 1 ^
+preOne 0 -> left2 0 ^
+preOne i -> left2 i ^
+preOne o -> left2 o ^
+preOne zero -> proOne zero >
+
+left2 1 -> left2 1 <
+left2 0 -> left2 0 <
+left2 i -> frst i >
+left2 o -> frst o >
+
+proOne 1 -> proOne 1 >
+proOne 0 -> proOne 0 >
+proOne i -> preOne i <
+proOne o -> preOne o <
+proOne zero -> preOne zero <
+
+frst 1 -> right i >
+frst 0 -> right o >
+frst i -> move1 U >
+frst o -> move2 U >
+
+move1 i -> move1 i >
+move1 o -> move2 i >
+move1 zero -> new i <
+
+move2 i -> move1 o >
+move2 o -> move2 o >
+move2 zero -> new o <
+
+new i -> new i <
+new o -> new o <
+new U -> new U <
+new zero -> check zero >
+
+check i -> check1 zero >
+check o -> check0 zero >
+check U -> check SUPER >
+check zero -> fin zero <
+
+fin SUPER -> fin 0 <
+fin i -> no i ^
+fin o -> no o ^
+fin zero -> next zero >
+
+next 0 -> next zero >
+next zero -> yes zero ^
+
+check1 i -> check1 i >
+check1 o -> check1 o >
+check1 U -> check11 U >
+
+check11 i -> new U <
+check11 o -> no o ^
+check11 U -> check11 U >
+
+check0 i -> check0 i >
+check0 o -> check0 o >
+check0 U -> check00 U >
+
+check00 i -> no i ^
+check00 o -> new U <
+check00 U -> check00 U >

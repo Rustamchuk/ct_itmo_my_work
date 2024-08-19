@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\bin\Debug\net8.0\PerimetrSquere.exe
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\bin\Debug\net8.0\PerimetrSquere.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\bin\Debug\net8.0\PerimetrSquere.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\bin\Debug\net8.0\PerimetrSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\bin\Debug\net8.0\PerimetrSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\refint\PerimetrSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\PerimetrSquere.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\PerimetrSquere\obj\Debug\net8.0\ref\PerimetrSquere.dll

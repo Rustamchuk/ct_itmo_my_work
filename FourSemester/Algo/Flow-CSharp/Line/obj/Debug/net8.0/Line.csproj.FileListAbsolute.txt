@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Line\bin\Debug\net8.0\Line.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Line\bin\Debug\net8.0\Line.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Line\bin\Debug\net8.0\Line.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Line\bin\Debug\net8.0\Line.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Line\bin\Debug\net8.0\Line.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\refint\Line.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\Line.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Line\obj\Debug\net8.0\ref\Line.dll

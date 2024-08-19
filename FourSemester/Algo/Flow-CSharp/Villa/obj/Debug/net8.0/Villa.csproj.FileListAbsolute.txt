@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\bin\Debug\net8.0\Villa.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\bin\Debug\net8.0\Villa.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\bin\Debug\net8.0\Villa.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\bin\Debug\net8.0\Villa.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\bin\Debug\net8.0\Villa.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\refint\Villa.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\Villa.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Villa\obj\Debug\net8.0\ref\Villa.dll

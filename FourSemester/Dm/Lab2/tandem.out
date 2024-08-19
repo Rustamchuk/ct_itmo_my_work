@@ -1,0 +1,63 @@
+start: one
+accept: yes
+reject: no
+blank: zero
+
+one 1 -> right i >
+one 0 -> right o >
+one zero -> yes zero ^
+
+right 1 -> right 1 >
+right 0 -> right 0 >
+right i -> two i <
+right o -> two o <
+right zero -> two zero <
+
+two 1 -> left i <
+two 0 -> left o <
+two i -> no i <
+two o -> no o <
+
+left 1 -> left 1 <
+left 0 -> left 0 <
+left i -> frst i >
+left o -> frst o >
+
+frst 1 -> right i >
+frst 0 -> right o >
+frst i -> move1 U >
+frst o -> move0 U >
+
+move1 i -> move1 i >
+move1 o -> move2 i >
+move1 zero -> new i <
+
+move2 i -> move1 o >
+move2 o -> move2 o >
+move2 zero -> new o <
+
+new i -> new i <
+new o -> new o <
+new U -> new U <
+new zero -> check zero >
+
+check i -> check1 zero >
+check o -> check0 zero >
+check U -> check zero >
+check zero -> yes zero ^
+
+check1 i -> check1 i >
+check1 o -> check1 o >
+check1 U -> check11 U >
+
+check11 i -> new U <
+check11 o -> no o ^
+check11 U -> check11 U >
+
+check0 i -> check0 i >
+check0 o -> check0 o >
+check0 U -> check00 U >
+
+check00 i -> no i ^
+check00 o -> new U <
+check00 U -> check00 U >

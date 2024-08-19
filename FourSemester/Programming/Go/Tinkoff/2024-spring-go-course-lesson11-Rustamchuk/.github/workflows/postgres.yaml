@@ -1,0 +1,63 @@
+name: Go
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container: node:22
+    services:
+      postgres:
+        image: silva95/postgres-smarthome:16.2
+        env:
+          POSTGRES_DB: "postgres"
+          POSTGRES_USER: "postgres"
+          POSTGRES_PASSWORD: "123"
+        options: >-
+          --health-cmd "pg_isready -d postgres -U postgres -p 5432"
+          --health-interval 30s
+          --health-timeout 5m
+          --health-retries 15
+        ports:
+          - 5432:5432
+    steps:
+      - name: add psql
+        run: |
+          apt-get update
+          apt-get install --yes --no-install-recommends postgresql-client retry
+
+      - name: check connection
+        run: retry --until=success --delay=5 --times=60 psql -U postgres -h postgres -d postgres -c 'SELECT 1;'
+        env:
+          PGPASSWORD: "123"
+
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: test active_sensors_count
+        timeout-minutes: 1
+        run: psql -U postgres -h postgres -d postgres < tasks/active_sensors_count.sql
+        env:
+          PGPASSWORD: "123"
+
+      - name: test most_popular_sensor
+        timeout-minutes: 1
+        run: psql -U postgres -h postgres -d postgres < tasks/most_popular_sensor.sql
+        env:
+          PGPASSWORD: "123"
+
+      - name: test top_3_users_with_active_sensors
+        timeout-minutes: 1
+        run: psql -U postgres -h postgres -d postgres < tasks/top_3_users_with_active_sensors.sql
+        env:
+          PGPASSWORD: "123"
+
+      - name: test optimize
+        timeout-minutes: 15
+        run: psql -U postgres -h postgres -d postgres < tasks/optimize.sql
+        env:
+          PGPASSWORD: "123"

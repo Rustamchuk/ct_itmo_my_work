@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\bin\Debug\net8.0\kilometr.exe
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\bin\Debug\net8.0\kilometr.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\bin\Debug\net8.0\kilometr.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\bin\Debug\net8.0\kilometr.dll
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\bin\Debug\net8.0\kilometr.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.dll
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\refint\kilometr.dll
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\kilometr.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\kilometr\obj\Debug\net8.0\ref\kilometr.dll

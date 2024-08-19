@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\bin\Debug\net8.0\Bag.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\bin\Debug\net8.0\Bag.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\bin\Debug\net8.0\Bag.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\bin\Debug\net8.0\Bag.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\bin\Debug\net8.0\Bag.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\refint\Bag.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\Bag.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Bag\obj\Debug\net8.0\ref\Bag.dll

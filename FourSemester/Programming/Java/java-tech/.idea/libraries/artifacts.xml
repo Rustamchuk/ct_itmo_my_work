@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="artifacts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.implementor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.walk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.student.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.arrayset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.base.jar!/" />
+      <root url="file://$PROJECT_DIR$/java-advanced-2024/artifacts" />
+      <root url="file://$PROJECT_DIR$/java-advanced-2024/artifacts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/java-advanced-2024/modules/info.kgeorgiy.java.advanced.hello" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/java-advanced-2024/artifacts" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/java-advanced-2024/artifacts" recursive="false" />
+  </library>
+</component>

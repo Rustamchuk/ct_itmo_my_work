@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\bin\Debug\net8.0\Distance2.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\bin\Debug\net8.0\Distance2.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\bin\Debug\net8.0\Distance2.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\bin\Debug\net8.0\Distance2.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\bin\Debug\net8.0\Distance2.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\refint\Distance2.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\Distance2.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Distance2\obj\Debug\net8.0\ref\Distance2.dll

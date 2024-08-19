@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\bin\Debug\net8.0\Igogo.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\bin\Debug\net8.0\Igogo.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\bin\Debug\net8.0\Igogo.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\bin\Debug\net8.0\Igogo.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\bin\Debug\net8.0\Igogo.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\refint\Igogo.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\Igogo.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Igogo\obj\Debug\net8.0\ref\Igogo.dll

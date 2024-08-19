@@ -1,0 +1,100 @@
+start: start
+accept: yes
+reject: no
+blank: zero
+
+start 1 -> start 0 >
+start 0 -> start 1 >
+start zero -> return zero <
+
+return 1 -> return kk <
+return 0 -> return ll <
+return zero -> return2 zero >
+
+return2 kk -> return2 kk >
+return2 ll -> return2 ll >
+return2 zero -> return3 zero <
+
+return3 kk -> return3 0 <
+return3 ll -> return3 1 <
+return3 zero -> one zero >
+
+one 1 -> odin i >
+one 0 -> nole o >
+one zero -> yes zero >
+
+odin 1 -> odin 1 >
+odin 0 -> odin 0 >
+odin i -> odin i >
+odin o -> nole i >
+odin zero -> int i <
+
+nole 1 -> nole 1 >
+nole 0 -> nole 0 >
+nole i -> odin o >
+nole o -> nole o >
+nole zero -> int o <
+
+walkLeft i -> walkLeft v <
+walkLeft o -> walkLeft w <
+walkLeft zero -> walkReft zero >
+
+walkReft v -> walkReft v >
+walkReft w -> walkReft w >
+walkReft zero -> walkLeft2 zero <
+
+walkLeft2 v -> walkLeft2 0 <
+walkLeft2 w -> walkLeft2 1 <
+walkLeft2 zero -> walkReft2 zero >
+
+walkReft2 1 -> walkReft2 0 >
+walkReft2 0 -> walkReft2 1 >
+walkReft2 zero -> finish zero <
+
+finish 1 -> finish 1 <
+finish 0 -> finish 0 <
+finish zero -> kick zero >
+
+kick 1 -> R zero >
+kick 0 -> R zero >
+kick i -> save i ^
+kick o -> save o ^
+
+save i -> save 1 >
+save o -> save 0 >
+save zero -> st zero <
+
+st 1 -> st 1 <
+st 0 -> st 0 <
+st zero -> yes zero >
+
+R 1 -> R 1 >
+R 0 -> R 0 >
+R zero -> swap zero <
+R i -> swap i <
+R o -> swap o <
+
+swap 1 -> L i <
+swap 0 -> L o <
+
+L 1 -> L 1 <
+L 0 -> L 0 <
+L zero -> kick zero >
+
+int i -> int i <
+int o -> int o <
+int 1 -> back 1 <
+int 0 -> back 0 <
+int zero -> fin zero >
+
+back i -> con i >
+back o -> con o >
+back 1 -> back 1 <
+back 0 -> back 0 <
+
+con 1 -> odin i >
+con 0 -> nole o >
+
+fin i -> fin i >
+fin o -> fin o >
+fin zero -> walkLeft zero <

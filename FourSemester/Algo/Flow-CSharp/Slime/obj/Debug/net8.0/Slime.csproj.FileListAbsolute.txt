@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\bin\Debug\net8.0\Slime.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\bin\Debug\net8.0\Slime.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\bin\Debug\net8.0\Slime.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\bin\Debug\net8.0\Slime.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\bin\Debug\net8.0\Slime.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\refint\Slime.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\Slime.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Slime\obj\Debug\net8.0\ref\Slime.dll

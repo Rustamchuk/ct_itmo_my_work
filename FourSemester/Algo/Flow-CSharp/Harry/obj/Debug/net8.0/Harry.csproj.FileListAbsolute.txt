@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\bin\Debug\net8.0\Harry.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\bin\Debug\net8.0\Harry.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\bin\Debug\net8.0\Harry.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\bin\Debug\net8.0\Harry.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\bin\Debug\net8.0\Harry.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\refint\Harry.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\Harry.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Harry\obj\Debug\net8.0\ref\Harry.dll

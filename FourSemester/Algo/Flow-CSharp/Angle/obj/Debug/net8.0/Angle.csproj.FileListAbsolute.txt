@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\bin\Debug\net8.0\Angle.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\bin\Debug\net8.0\Angle.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\bin\Debug\net8.0\Angle.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\bin\Debug\net8.0\Angle.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\bin\Debug\net8.0\Angle.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\refint\Angle.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\Angle.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Angle\obj\Debug\net8.0\ref\Angle.dll

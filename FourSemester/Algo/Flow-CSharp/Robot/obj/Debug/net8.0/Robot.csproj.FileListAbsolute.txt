@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\bin\Debug\net8.0\Robot.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\bin\Debug\net8.0\Robot.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\bin\Debug\net8.0\Robot.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\bin\Debug\net8.0\Robot.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\bin\Debug\net8.0\Robot.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\refint\Robot.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\Robot.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Robot\obj\Debug\net8.0\ref\Robot.dll

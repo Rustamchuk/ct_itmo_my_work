@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\bin\Debug\net8.0\WideSquere.exe
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\bin\Debug\net8.0\WideSquere.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\bin\Debug\net8.0\WideSquere.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\bin\Debug\net8.0\WideSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\bin\Debug\net8.0\WideSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\refint\WideSquere.dll
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\WideSquere.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\WideSquere\obj\Debug\net8.0\ref\WideSquere.dll

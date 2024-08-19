@@ -1,0 +1,51 @@
+package inmemory
+
+import (
+	"WB-Tech-L2/develop/dev11/internal/model"
+	"context"
+	"fmt"
+	"sync"
+)
+
+type event struct {
+	mutex sync.RWMutex
+	data  map[int][]model.Event
+}
+
+func NewEvent() Event {
+	return &event{data: make(map[int][]model.Event)}
+}
+
+func (e *event) CreateEvent(ctx context.Context, userID int, event model.Event) error {
+	e.mutex.Lock()
+	defer e.mutex.Unlock()
+	event.ID = len(e.data[userID]) + 1
+	e.data[userID] = append(e.data[userID], event)
+	return nil
+}
+
+func (e *event) GetEvents(ctx context.Context, userID int) ([]model.Event, error) {
+	e.mutex.RLock()
+	defer e.mutex.RUnlock()
+	events, exists := e.data[userID]
+	if !exists || len(events) == 0 {
+		return nil, fmt.Errorf("no events found for user %d", userID)
+	}
+	return events, nil
+}
+
+func (e *event) DeleteEvent(ctx context.Context, userID int, eventID int) error {
+	e.mutex.Lock()
+	defer e.mutex.Unlock()
+	events, exists := e.data[userID]
+	if !exists {
+		return fmt.Errorf("no events found for user %d", userID)
+	}
+	for i, event := range events {
+		if event.ID == eventID {
+			e.data[userID] = append(events[:i], events[i+1:]...)
+			return nil
+		}
+	}
+	return fmt.Errorf("event %d not found for user %d", eventID, userID)
+}

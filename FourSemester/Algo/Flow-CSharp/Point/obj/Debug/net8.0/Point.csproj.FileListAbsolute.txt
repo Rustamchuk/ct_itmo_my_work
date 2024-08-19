@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Point\bin\Debug\net8.0\Point.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Point\bin\Debug\net8.0\Point.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Point\bin\Debug\net8.0\Point.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Point\bin\Debug\net8.0\Point.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Point\bin\Debug\net8.0\Point.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\refint\Point.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\Point.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Point\obj\Debug\net8.0\ref\Point.dll

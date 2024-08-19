@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\bin\Debug\net8.0\Slice.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\bin\Debug\net8.0\Slice.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\bin\Debug\net8.0\Slice.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\bin\Debug\net8.0\Slice.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\bin\Debug\net8.0\Slice.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\refint\Slice.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\Slice.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Slice\obj\Debug\net8.0\ref\Slice.dll

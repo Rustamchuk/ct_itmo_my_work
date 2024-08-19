@@ -1,0 +1,14 @@
+C:\University\FourSemester\Algo\Flow-CSharp\Names\bin\Debug\net8.0\Names.exe
+C:\University\FourSemester\Algo\Flow-CSharp\Names\bin\Debug\net8.0\Names.deps.json
+C:\University\FourSemester\Algo\Flow-CSharp\Names\bin\Debug\net8.0\Names.runtimeconfig.json
+C:\University\FourSemester\Algo\Flow-CSharp\Names\bin\Debug\net8.0\Names.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Names\bin\Debug\net8.0\Names.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.AssemblyInfoInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.AssemblyInfo.cs
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.csproj.CoreCompileInputs.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\refint\Names.dll
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.pdb
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\Names.genruntimeconfig.cache
+C:\University\FourSemester\Algo\Flow-CSharp\Names\obj\Debug\net8.0\ref\Names.dll
