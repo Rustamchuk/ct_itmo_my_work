@@ -1,0 +1,57 @@
+version: '3.8'
+
+services:
+  order-service-db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    networks:
+      - my-network
+
+  nats-streaming:
+    image: nats-streaming
+    command: -cid WB-L0
+    ports:
+      - "4222:4222"
+      - "8222:8222"
+    networks:
+      - my-network
+
+  myapp:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - order-service-db
+      - nats-streaming
+    networks:
+      - my-network
+
+  migrator:
+    image: migrate/migrate
+    volumes:
+      - ./migrations:/migrations
+    depends_on:
+      - order-service-db
+    networks:
+      - my-network
+    command: [ "-path", "/migrations", "-database", "DATABASE_URL", "up" ]
+    environment:
+      DATABASE_URL: postgres://postgres:admin@order-service-db:5432/postgres?sslmode=disable
+
+  nats:
+    image: golang:alpine3.18
+    working_dir: /bin/cmd/nats
+    volumes:
+      - .:/bin
+    command: go run nats.go
+    depends_on:
+      - myapp
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge
